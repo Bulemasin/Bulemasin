@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @Bulemasin
+- 👀 I’m interested in mobility & transport data and ways to better analyse them
+- 🌱 I’m currently learning how to use Python & how to create web apps - I'm a rookie but I'm learning!
+- 💞️ I’m looking to collaborate on web applications, mobility & transport-related projects.
